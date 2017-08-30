@@ -1,0 +1,10 @@
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\bin\Debug\AvalaraTax.exe.config
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\bin\Debug\AvalaraTax.exe
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\bin\Debug\AvalaraTax.pdb
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\bin\Debug\AvalaraLibrary.dll
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\bin\Debug\Newtonsoft.Json.dll
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\bin\Debug\AvalaraLibrary.pdb
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\bin\Debug\Newtonsoft.Json.xml
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\obj\Debug\AvalaraTax.csprojResolveAssemblyReference.cache
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\obj\Debug\AvalaraTax.exe
+E:\document\Project\Projects\AvalaraTax\AvalaraTax\obj\Debug\AvalaraTax.pdb

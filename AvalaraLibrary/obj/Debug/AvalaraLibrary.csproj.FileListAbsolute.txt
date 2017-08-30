@@ -1,0 +1,6 @@
+E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\bin\Debug\AvalaraLibrary.dll
+E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\bin\Debug\AvalaraLibrary.pdb
+E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\obj\Debug\AvalaraLibrary.dll
+E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\obj\Debug\AvalaraLibrary.pdb
