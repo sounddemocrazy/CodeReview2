@@ -4,3 +4,4 @@ E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\bin\Debug\Newtonsoft.Json
 E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\bin\Debug\Newtonsoft.Json.xml
 E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\obj\Debug\AvalaraLibrary.dll
 E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\obj\Debug\AvalaraLibrary.pdb
+E:\document\Project\Projects\AvalaraTax\AvalaraLibrary\obj\Debug\AvalaraLibrary.csprojResolveAssemblyReference.cache

@@ -34,7 +34,7 @@ namespace AvalaraLibrary.Avalara
                 else
                 {
                     var errorMessage = new TaxRateModel();
-                    errorMessage.message = "You are trying to get tax rate for free at AU. It is only available at US for now";
+                    errorMessage.message = "Please Enter Valid Address";
                     return errorMessage;
                 }
 
@@ -44,7 +44,7 @@ namespace AvalaraLibrary.Avalara
             {
 
                 var errorMessage = new TaxRateModel();
-                errorMessage.message = "You are trying to get tax rate for free at AU. It is only available at US for now" + ex;
+                errorMessage.message = "Please Enter Valid Address" + ex;
                 return errorMessage;
             }
 
