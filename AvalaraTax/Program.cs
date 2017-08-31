@@ -51,7 +51,7 @@ namespace AvalaraTax
 
                         var getTax = avalaraLibrary.GetTaxByAddress(line1, line2, line3, city, postalCode, region);
                         if (getTax.message == "" || getTax.message == null)
-                        {
+                        { 
                             string rateByState = "", ratebyCounty = "", rateByCity = "";
                             foreach (var item in getTax.rates)
                             {
