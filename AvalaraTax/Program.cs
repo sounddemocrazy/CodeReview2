@@ -11,6 +11,7 @@ namespace AvalaraTax
     {
         static void Main(string[] args)
         {
+            #region Avalara
             var avalaraLibrary = new AlavaraController();
 
             Console.WriteLine("What you want to do, \n (1) Validate Address \n (2) Get Tax");
@@ -80,6 +81,15 @@ namespace AvalaraTax
             }
 
             Console.ReadKey();
+            #endregion
+
+            Console.WriteLine("Please enter UserName: ");
+            using (var context = new PrincipalContext(ContextType.Domain, "mydomain", "mydomain\serviceAcct", "serviceAcctPass"))
+            {
+                //Username and password for authentication.
+                return context.ValidateCredentials(username, password);
+            }
         }
+
     }
 }
